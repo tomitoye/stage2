@@ -236,3 +236,12 @@ body {
 body{
   width:30% ;
 }
+@media (max-width: 800px) {
+  .resume {
+    flex-direction: column;
+  }
+   .resume .resume_left, .resume .resume_right{
+    width: 100%;
+
+  }
+}
