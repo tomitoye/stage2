@@ -245,3 +245,16 @@ body{
 
   }
 }
+footer{
+  margin-top:20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+width: 80%;
+
+}
+.footer-image img{
+ max-width: 100%;
+width: 75px;
+width: 125px;
+}
