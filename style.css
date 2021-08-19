@@ -233,3 +233,6 @@ body {
 .resume .resume_right .resume_hobby ul li:last-child:before {
   display: none;
 }
+body{
+  width:30% ;
+}
